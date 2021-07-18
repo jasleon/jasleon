@@ -1,5 +1,3 @@
-### Welcome! 👋
-
 ![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasleon&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasleon&layout=compact)](https://github.com/jasleon/github-readme-stats)
 
